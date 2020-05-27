@@ -2,7 +2,7 @@
 
 Deploy Static Website on AWS
 
-Website URL: d2xc7bqphc9mc4.cloudfront.net/index.html
+Website URL: http://d2xc7bqphc9mc4.cloudfront.net/index.html
 
 In this project, you will deploy a static website to AWS using S3, CloudFront, and IAM.
 
